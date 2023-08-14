@@ -10,21 +10,20 @@ npm run dev
 
 Bir kullanıcının göre takibi yapabilmesi için gerekli olan özellikleri barıdıran bir uygulamadır.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Open Demo [https://test-case-task-tracker.vercel.app]
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Deskop Anasayfa: ![1](https://github.com/yusuf-colak/test-case-Task-tracker/assets/128047955/8735173f-5621-419e-adcc-b52d1fac34ff)
 
-## Learn More
+## Deskop Anasayfa:
 
-To learn more about Next.js, take a look at the following resources:
+![1](https://github.com/yusuf-colak/test-case-Task-tracker/assets/128047955/8735173f-5621-419e-adcc-b52d1fac34ff)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deskop Görev Ekleme: ![2](https://github.com/yusuf-colak/test-case-Task-tracker/assets/128047955/cdb9dac6-fea5-4872-aaae-01ca415a466a)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Deskop Görev Ekleme:
 
-## Deploy on Vercel
+![2](https://github.com/yusuf-colak/test-case-Task-tracker/assets/128047955/cdb9dac6-fea5-4872-aaae-01ca415a466a)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Mobil Anasayfa:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![4](https://github.com/yusuf-colak/test-case-Task-tracker/assets/128047955/53680476-66ac-43e0-bf19-19a657a9b21f)
