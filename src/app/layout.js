@@ -2,10 +2,12 @@ import Navbar from "./pages/NavBar";
 import "react-toastify/dist/ReactToastify.css";
 import "./global.css";
 import { ToastContainer } from "react-toastify";
+import { LocaleStoreKontrol } from "./pages/localeStoreKontrol";
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body >
+      <body>
+        <LocaleStoreKontrol />
         <Navbar />
         {children}
         <ToastContainer />
