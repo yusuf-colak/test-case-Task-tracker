@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.myButton{
+    padding: 8px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+
+}
+
+@media screen and (max-width: 460px) {
+    .globalMin{
+        margin-top:10px;
+    }
+    .minWithDüzen{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+    
+}
